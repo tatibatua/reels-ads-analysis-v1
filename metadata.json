@@ -1,6 +1,0 @@
-{
-  "name": "Meta Ads Video Performance Dashboard",
-  "description": "Dashboard do Meta Ads em português (PT-BR) para equipes criativas analisarem métricas de performance de vídeo, retenção, engajamento e diagnósticos estratégicos.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
